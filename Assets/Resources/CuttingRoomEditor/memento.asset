@@ -15,9 +15,12 @@ MonoBehaviour:
   narrativeObjectNodeStates:
   - narrativeObjectGuid: b1a09d0f-b6cf-4e29-bbe4-fd5a3aa50e8e
     position: {x: 101, y: 135.5}
+  - narrativeObjectGuid: 5383252c-9762-447a-bab6-91e97c3b63ed
+    position: {x: 340, y: 133.5}
   viewContainerStates:
   - narrativeObjectGuid: 0
     narrativeObjectNodeGuids:
     - b1a09d0f-b6cf-4e29-bbe4-fd5a3aa50e8e
+    - 5383252c-9762-447a-bab6-91e97c3b63ed
   viewContainerStackGuids:
   - 0
